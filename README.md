@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on: capturing log data for multi-threaded programs.<br>
+👯 I’m looking to collaborate on: <br>
+🤝 I’m looking for help with: <br>
+🌱 I’m currently learning: Powershell Runspaces, more about the mortgage industry<br>
+💬 Ask me about: <br>
+⚡ Fun fact: 
+* I'm married and have 2 children
+* I love camping and riding four-wheelers
+
 
 
 ## 🌐 Socials:
