@@ -7,8 +7,7 @@
 ⚡ Fun fact: 
 * I'm married and have 2 children
 * I love camping and riding four-wheelers
-
-
+* Most of my coding is either sent to my self-hosted Gitea or is in my employers private GH organization, so my profile looks sparse
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dlrowland) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/firedrow) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/d-rowland) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DwalbarRockjaw) 
